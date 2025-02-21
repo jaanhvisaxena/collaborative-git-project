@@ -4,4 +4,3 @@ Feature user1 content added.
 =======
 Feature user2 content added.
 >>>>>>> feature-user2
-Content added in feature-rebase branch.
