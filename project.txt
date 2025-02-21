@@ -1,2 +1,4 @@
 Initial content for the collaborative git project.
+Feature user2 content added.
 Feature user1 content added.
+
